@@ -1,17 +1,13 @@
-
-
-
-
-
-
 # challenge_10
 Team profile generator
 
 ## **_Table of contents_**
-* [Project rtask](#description-of-the-project)
-* [Technologies used](#technologies-used)
+* [Project task](#project-description)
+* [User Story](#user-story)
+* [Modules used](#modules-used)
 * [Usage](#usage)
-* [Installation](#installation)
+* [Screen shot](#screen-shot)
+* [Installation and run instructions](#installation)
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
 
 ## **_Project task_**
@@ -29,7 +25,7 @@ AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 
-## **_Technologies used_**
+## **_Modules used_**
 Project is created using:
 * HTML
 * CSS
@@ -39,12 +35,15 @@ Project is created using:
 * TDD (jest tests)
 
 ## **_Usage [video]_**
+https://user-images.githubusercontent.com/70511172/222891208-744b4c87-198f-4532-a366-29464c78b4dc.mp4
 
 ## Screen Shot
 
 A screenshot of the app looks like the figure below:
 
 Screen shot
+![screenshot1](https://user-images.githubusercontent.com/70511172/222891665-3b635e9d-38e8-48b9-8778-2c3eac691fc1.png)
+
 
 ## **_Installation and run instructions:_**
 
